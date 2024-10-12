@@ -1,1 +1,1 @@
-xiaoyaliu/alist:latest
+hslr/sun-panel:latest
