@@ -1,1 +1,1 @@
-mrxianyu/metacubexd-ui:latest
+cmliu/cfnat:latest
