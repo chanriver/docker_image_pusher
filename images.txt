@@ -1,1 +1,1 @@
-cmliu/cfnat:latest
+qdtoday/qd:latest
